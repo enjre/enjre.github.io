@@ -7,7 +7,8 @@
   or with my rock band, Bone Haus
   
 ## Links & Documents
-    [Resume]
+    [Resume] 
+    [Github] (https://github.com/enjre)
 
 
 ## Projects
