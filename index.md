@@ -7,7 +7,7 @@
   or with my rock band, Bone Haus
 
 ## Projects
- * I created a website for my rock band to keep our fans updated. All code is written by me. Check it out: http://bonehausband.com/
+ * I created a website for my rock band to keep our fans updated. All code is written by me. [Check it out](http://bonehausband.com/)
  * 
  
   
