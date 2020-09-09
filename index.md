@@ -7,7 +7,7 @@
   or with my rock band, Bone Haus
   
 ## Links & Documents
-    [Resume] 
+    [Resume] (Resume_9.9.20(1).pdf) 
 
 
 ## Projects
