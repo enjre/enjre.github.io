@@ -5,6 +5,10 @@
   My expected graduation date is December 2021. Aside from being a full time student, I am also a 
   musician and gamer. When I'm not working, I am either playing trumpet with the BSU Jazz Orchestra 
   or with my rock band, Bone Haus
+  
+## Links & Documents
+    [Resume] 
+
 
 ## Projects
  * I created a website for my rock band to keep our fans updated. All code is written by me. [Check it out](http://bonehausband.com/)
