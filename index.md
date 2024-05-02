@@ -12,11 +12,10 @@
   for fun. 
 
 ## Links & Documents
-    
-    [LinkedIn](https://www.linkedin.com/in/andre-maldonado/)
-    [GitHub](https://github.com/enjre)
+  [LinkedIn](https://www.linkedin.com/in/andre-maldonado/)
+  [GitHub](https://github.com/enjre)
 
-
+  
 ## Projects
  * TBA
  * 
