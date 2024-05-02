@@ -1,18 +1,24 @@
 # Welcome to Andre Maldonado's GitHub Page
 
 ## About Me
-  I am a Senior at Boise State University pursuing a Bachelor's degree in Computer Science. 
-  My expected graduation date is December 2021. Aside from being a full time student, I am also a 
-  musician and gamer. When I'm not working, I am either playing trumpet with the BSU Jazz Orchestra 
-  or with my rock band, Bone Haus
+  I am a Boise State University alumnus with a Bachelor of Computer Science. Currently I work at
+  Kount (Equifax) as a System Administrator. I'm interested in cloud techonologies like AWS and GCP, 
+  so I am always working on certification. 
+
+  Outside of work my hobbies are playing music, soccer and biking. I play in a local punk band in the Boise 
+  music scene, and also in a cover band. I've been a musician since 2010, where I started playing trumpet in 
+  middle school. I kept that up all the way through my junior year at Boise State, while at the same time started 
+  my band. Currently I play indoor soccer through my work, commute to work on my bike, as well as ride along the Greenbelt 
+  for fun. 
 
 ## Links & Documents
     [Resume] 
-    [Github] (https://github.com/enjre)
+    https://www.linkedin.com/in/andre-maldonado/
+    https://github.com/enjre
 
 
 ## Projects
- * I created a website for my rock band to keep our fans updated. All code is written by me. [Check it out](http://bonehausband.com/)
+ * TBA
  * 
 
 
