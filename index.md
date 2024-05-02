@@ -11,21 +11,14 @@
   my band. Currently I play indoor soccer through my work, commute to work on my bike, as well as ride along the Greenbelt 
   for fun. 
 
-## Links & Documents
--  [LinkedIn](https://www.linkedin.com/in/andre-maldonado/)
+## Links 
+- [LinkedIn](https://www.linkedin.com/in/andre-maldonado/)
 - [GitHub](https://github.com/enjre)
 - [Stream my band **Bone Haus**](https://open.spotify.com/artist/1zOUxDDEYax8zcPp7iweuV?si=OUtyu_mdQ46AqI6SeKJ6KQ)
   
-## Projects
- * TBA
- * 
 
 
-### Notable Courses Taken
- * CS 321 - Data Structures
- * CS-HU 310 - Intro to Database Management
- * CS-HU 271 - Agile Development
- * CS 354 - Programming Languages
- * CS 401 - Intro to Web Development
+### Certifications
+- AWS Certified Cloud Practitioner
 
 
