@@ -2,7 +2,7 @@
 
 ## About Me
   I am a Boise State University alumnus with a Bachelor of Computer Science. Currently I work at
-  Kount (Equifax) as a System Administrator. I'm interested in cloud techonologies like AWS and GCP, 
+  Kount (Equifax) as a System Administrator. I'm interested in cloud techonologies such as **AWS** and **GCP**, 
   so I am always working on certification. 
 
   Outside of work my hobbies are playing music, soccer and biking. I play in a local punk band in the Boise 
@@ -12,9 +12,9 @@
   for fun. 
 
 ## Links & Documents
-    [Resume] 
-    https://www.linkedin.com/in/andre-maldonado/
-    https://github.com/enjre
+    
+    [LinkedIn]https://www.linkedin.com/in/andre-maldonado/
+    [GitHub]https://github.com/enjre
 
 
 ## Projects
