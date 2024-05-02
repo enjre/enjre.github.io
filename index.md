@@ -19,6 +19,7 @@
 
 
 ### Certifications
-- AWS Certified Cloud Practitioner
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0693635b-698d-4cd1-aa79-4466f60adfc4)
+-   
 
 
