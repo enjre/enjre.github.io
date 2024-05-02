@@ -12,9 +12,9 @@
   for fun. 
 
 ## Links & Documents
-  [LinkedIn](https://www.linkedin.com/in/andre-maldonado/)
-  [GitHub](https://github.com/enjre)
-
+-  [LinkedIn](https://www.linkedin.com/in/andre-maldonado/)
+- [GitHub](https://github.com/enjre)
+- [Stream my band **Bone Haus**](https://open.spotify.com/artist/1zOUxDDEYax8zcPp7iweuV?si=OUtyu_mdQ46AqI6SeKJ6KQ)
   
 ## Projects
  * TBA
